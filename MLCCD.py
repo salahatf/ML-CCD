@@ -4,7 +4,7 @@ from tkinter import *
 import tkinter.ttk as ttk
 from PIL import Image, ImageTk
 import PIL.Image
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+
 
 
 class MLCCD:

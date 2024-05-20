@@ -1,13 +1,9 @@
-﻿from ast import Delete
-from gc import disable, enable
-import tkinter as tk
+﻿import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
 import tkinter.ttk as ttk
-from turtle import clear, width
 import pandas as pd
 import math
-import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as font_manager
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
@@ -18,7 +14,6 @@ from sklearn.ensemble import RandomForestRegressor
 from scipy import optimize
 from scipy import stats
 import numpy as np
-matplotlib.use("TkAgg")
 
 class databaseAndModel:
     def __init__(self, master,title):
