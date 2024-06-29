@@ -1,0 +1,11 @@
+tkinter
+PIL
+pandas
+math
+matplotlib
+pandastable
+sklearn
+scipy
+scipy
+numpy
+
