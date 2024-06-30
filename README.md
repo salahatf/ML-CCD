@@ -3,11 +3,11 @@ ML-CCD is a software based on the Random Forest Machine Learning (ML) Model to p
 ***
 # How to use ML-CCD
 To run the software. Please follow the following instructions:
-1- create an empty folder to at your local machine to host the code.
-2- Using visual studio, clone this project to your local machine.
-3- create a virtual environment in the created folder that hosts the code on your local machine.
-4- Using python 3.11 download the requirements provided in text file (requirements.txt). 
-** NOTE: VISUAL STUDIO USUALLY DETECTS THE "requirements.txt" FILE AND GIVES THE OPTION TO CREATE A VIRTUAL ENVIRONMENT AND DOWNLOAD THE REQUIREMENTS.
+1. create an empty folder to at your local machine to host the code.
+2. Using visual studio, clone this project to your local machine.
+3. create a virtual environment in the created folder that hosts the code on your local machine.
+4. Using python 3.11 download the requirements provided in text file (requirements.txt). 
+**NOTE: VISUAL STUDIO USUALLY DETECTS THE "requirements.txt" FILE AND GIVES THE OPTION TO CREATE A VIRTUAL ENVIRONMENT AND DOWNLOAD THE REQUIREMENTS.**
 5. Run the software and follow the following steps:
   a. Click start to load the database and start the software.
   b. Import the database.xls provided in the project.
