@@ -1,8 +1,6 @@
 # What is ML-CCD
 ML-CCD is a software based on the Random Forest Machine Learning (ML) Model to predict the Concrete Cover Delamination (CCD) premature failure of FRP strengthened RC beams. The model is trained using a database compiled from 70 beams that were tested experimentally and failed in CCD. The database is provided in the project folder and named as (database.xls). The second sheet of the excel file (database.xls) is provided for the user as an alternative method of data entry, the software will give the user the option to either enter the parameters for the tested beam manually or read from the second sheet in the excel file. 
 ***
---
-***
 # How to use ML-CCD
 To run the software. Please follow the following instructions:
 1- create an empty folder to at your local machine to host the code.
@@ -20,6 +18,8 @@ To run the software. Please follow the following instructions:
   g. Hit the "Run Predictions" button to explore the parameters used in the ML model then move to the "Calibration" tab to calibrate the correlation function that obtains the "Strengthened Capacity" through the strengthening ratio. The user can do this by changing the slope and intercept of the linear curve to exclude the noisy points that do not comply with mechanics of RC beams. 
   h. Fill in the parameters of the beam to be tested, an alternative approach is to fill in the beam information using the second sheet of the database.xls file.
   i. After calibration is achieved and the beam parameters are input, run the results using the "Run Results"
+
+  ***
 # Additional Notes
 ## Expanding the database
 The user has the ability to enlarge the database by adding additional rows to the database, however, the model is equipped to with functions that will filter out any additional data points that do not comply with the fundamentals of RC beam mechanics.
