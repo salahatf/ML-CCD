@@ -25,4 +25,7 @@ To run the software. Please follow the following instructions:
 The user has the ability to enlarge the database by adding additional rows to the database, however, the model is equipped to with functions that will filter out any additional data points that do not comply with the fundamentals of RC beam mechanics.
 ## Supported units
 Please note that this software uses SI system of units. 
+## Tutorial vedio
+For additonal information on downloading and using ML-CCD, please visit this youtube link:
+https://www.youtube.com/watch?v=rb_vmrLaQ50
 
