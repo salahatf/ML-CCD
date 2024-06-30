@@ -9,7 +9,7 @@ To run the software. Please follow the following instructions:
 4. Using python 3.11 download the requirements provided in text file (requirements.txt). 
 **NOTE: VISUAL STUDIO USUALLY DETECTS THE "requirements.txt" FILE AND GIVES THE OPTION TO CREATE A VIRTUAL ENVIRONMENT AND DOWNLOAD THE REQUIREMENTS.**
 5. Run the software and follow the following steps:
- a. Click start to load the database and start the software.
+ *a. Click start to load the database and start the software.
  b. Import the database.xls provided in the project.
  c. Move to the "Unstrengthened Capacity" tab and hit the "Find Unstrengthened Capacity" button to analyze all beams without the presence of the FRP material. This function is used to find the critical strengthening ratio (M_strengthened/M_unstrengthened). 
  d. Conduct failure analysis through the "Failure Analysis" tab, this tab finds the strain profiles of all beams exist in the database and check compliance with basic RC mechanics. 
