@@ -7,7 +7,7 @@ To run the software. Please follow the following instructions:
 2. Using visual studio, clone this project to your local machine.
 3. create a virtual environment in the created folder that hosts the code on your local machine.
 4. Using python 3.11 download the requirements provided in text file (requirements.txt). 
-**NOTE: VISUAL STUDIO USUALLY DETECTS THE "requirements.txt" FILE AND GIVES THE OPTION TO CREATE A VIRTUAL ENVIRONMENT AND DOWNLOAD THE REQUIREMENTS.**
+**Note: Visual studio usually detects the "requirements.txt" file and gives the option to create a virtual environment and download the requirements.**
 5. Run the software and follow the following steps:
   * Click start to load the database and start the software.
   * Import the database.xls provided in the project.
@@ -24,5 +24,5 @@ To run the software. Please follow the following instructions:
 ## Expanding the database
 The user has the ability to enlarge the database by adding additional rows to the database, however, the model is equipped to with functions that will filter out any additional data points that do not comply with the fundamentals of RC beam mechanics.
 ## Supported units
-PLEASE NOTE THAT THIS SOFTWARE USES SI SYSTEM OF UNITS. 
+Please note that this software uses SI system of units. 
 
